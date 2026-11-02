@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720">
+  <g id="ojo_izq" data-pivot="222 180">
+    <ellipse id="ojo_izq_blanco" cx="222" cy="180" rx="31" ry="36" fill="#fefefe" stroke="#482313" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+    <g id="ojo_izq_pupila" data-pivot="229 187">
+      <circle id="ojo_izq_iris" cx="229" cy="187" r="15" fill="#1a0d08"/>
+      <circle id="ojo_izq_brillo" cx="224" cy="181" r="5" fill="#ffffff"/>
+    </g>
+    <path id="ojo_izq_cerrado" d="M192,184 Q222,204 252,184" fill="none" stroke="#482313" stroke-width="8" stroke-linecap="round" display="none"/>
+  </g>
+</svg>

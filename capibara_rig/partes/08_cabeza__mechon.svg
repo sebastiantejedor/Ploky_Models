@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720">
+  <g id="mechon" data-pivot="302 110">
+    <path id="mechon_forma" d="M287,110 C272,84 270,66 282,52 C292,70 300,90 304,108 Z" fill="#bd7e4e" stroke="#482313" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+    <path id="mechon_forma2" d="M304,108 C310,82 322,64 338,58 C336,78 326,98 316,112 Z" fill="#bd7e4e" stroke="#482313" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720">
+  <g id="oreja_izq" data-pivot="192 134">
+    <ellipse id="oreja_izq_forma" cx="176" cy="124" rx="26" ry="24" fill="#7a4a35" stroke="#482313" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+    <ellipse id="oreja_izq_interior" cx="176" cy="126" rx="13" ry="11" fill="#5e382a"/>
+  </g>
+</svg>

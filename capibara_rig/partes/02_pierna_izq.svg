@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720">
+  <g id="pierna_izq" data-pivot="250 575">
+    <path id="pierna_izq_forma" d="M219.0,558.5 A31,31 0 0 1 281.0,561.5 L277.0,641.5 A31,31 0 0 1 215.0,638.5 Z" fill="#bd7e4e" stroke="#482313" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+    <ellipse id="pierna_izq_pie" cx="237" cy="654" rx="47" ry="22" fill="#7a4a35" stroke="#482313" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>
