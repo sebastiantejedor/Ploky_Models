@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720">
-  <g id="cuerpo" data-pivot="300 600">
-    <path id="cuerpo_forma" d="M240,316 C190,340 156,430 152,520 C150,560 160,580 174,590 C200,626 400,626 426,590 C440,580 450,560 448,520 C444,430 410,340 360,316 Z" fill="#bd7e4e" stroke="#482313" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
-    <ellipse id="cuerpo_barriga" cx="300" cy="505" rx="72" ry="88" fill="#e3b88e"/>
-  </g>
-</svg>

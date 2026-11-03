@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720">
-  <g id="boca_abierta">
-    <path id="boca_interior" d="M258,288 C285,296 315,296 342,288 C342,326 320,340 300,340 C280,340 258,326 258,288 Z" fill="#3a1a12" stroke="#482313" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
-    <ellipse id="boca_lengua" cx="300" cy="326" rx="22" ry="10" fill="#d98585"/>
-    <rect x="285" y="290" width="15" height="24" rx="4" fill="#fefefe" stroke="#482313" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-    <rect x="300" y="290" width="15" height="24" rx="4" fill="#fefefe" stroke="#482313" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-  </g>
-</svg>

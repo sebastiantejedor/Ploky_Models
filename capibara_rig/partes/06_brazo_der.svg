@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720">
-  <g id="brazo_der" data-pivot="410 390">
-    <path id="brazo_der_forma" d="M384.9,398.0 A27,27 0 0 1 435.1,378.0 L479.1,488.0 A27,27 0 0 1 428.9,508.0 Z" fill="#bd7e4e" stroke="#482313" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
-    <ellipse id="brazo_der_mano" cx="455" cy="501" rx="31" ry="29" fill="#7a4a35" stroke="#482313" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
-  </g>
-</svg>

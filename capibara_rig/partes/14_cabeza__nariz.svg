@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720">
-  <g id="nariz" data-pivot="300 247">
-    <rect id="nariz_forma" x="244" y="220" width="112" height="54" rx="25" fill="#6b3535" stroke="#4a2020" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-    <ellipse id="nariz_brillo" cx="300" cy="232" rx="36" ry="6" fill="#97575a"/>
-    <ellipse id="nariz_fosa_izq" cx="274" cy="254" rx="11" ry="7" fill="#331818"/>
-    <ellipse id="nariz_fosa_der" cx="326" cy="254" rx="11" ry="7" fill="#331818"/>
-  </g>
-</svg>
